@@ -2,8 +2,6 @@
 
 Medidor de volume com arduino mega e sensores de distância e de vazão 
 
-Segue o texto revisado e expandido para o projeto:  
-
 ---
 
 **Projeto: Medição de Volume de um Recipiente de 2 Litros com Sensores e Arduino**  
@@ -12,6 +10,12 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico da Fundação
 
 Além disso, o sistema conta com um medidor de vazão, o sensor YF-S201, instalado na entrada de líquido do recipiente. Esse sensor mede a vazão do líquido e, com base nesses dados, calcula uma segunda porcentagem de enchimento. Para garantir maior precisão na medição, as duas porcentagens são combinadas em uma média final. O resultado é exibido em uma tela OLED I2C 128x64, facilitando a visualização em tempo real.  
 
+Adicionalmente, foi integrado ao sistema um buzzer que fornece alertas sonoros a cada 25% de enchimento do recipiente:  
+- **25%**: 1 bip;  
+- **50%**: 2 bips;  
+- **75%**: 3 bips;  
+- **100%**: 4 bips.  
+
 Esse sistema integra conceitos de eletrônica, automação e programação com Arduino, demonstrando sua aplicabilidade em projetos de controle e monitoramento de líquidos.  
 
 **Contato para dúvidas ou esclarecimentos**  
@@ -19,7 +23,8 @@ Caso tenha dúvidas ou necessite de informações adicionais sobre o projeto, en
 - **mjustino@alunos.fho.edu.br**  
 - **emerson01@alunos.fho.edu.br**  
 
---- 
+---  
+
 
 
 
