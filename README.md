@@ -1,4 +1,4 @@
-# Medidor-de-volume
+# VIT - VOLUME INDICATOR AND TRANSMISSOR 
 
 Medidor de volume com arduino mega e sensores de distância e de vazão 
 
