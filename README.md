@@ -16,7 +16,7 @@ Adicionalmente, foi integrado ao sistema um buzzer que fornece alertas sonoros a
 - **75%**: 3 bips;  
 - **100%**: 4 bips.  
 
-Esse sistema integra conceitos de eletrônica, automação e programação com Arduino, demonstrando sua aplicabilidade em projetos de controle e monitoramento de líquidos.  
+Esse sistema integra conceitos de eletrônica, automação e programação com Arduino, demonstrando sua aplicabilidade em projetos de controle e monitoramento de líquidos. Lembrando que a ideia era juntar esses sensores para construir um sensor mais aprimorado.
 
 **Contato para dúvidas ou esclarecimentos**  
 Caso tenha dúvidas ou necessite de informações adicionais sobre o projeto, entre em contato pelos e-mails:  
